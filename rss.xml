@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[DO IT ]]></title>
         <description><![CDATA[DO IT ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/do-it/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Aug 2016 13:10:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 02 Aug 2016 13:11:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/do-it/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Why complaining is literally killing you.]]></title>
-            <description><![CDATA[<h1>Why complaining is literally killing you.</h1>]]></description>
-            <link>undefinedwhy-complaining-is-literally-killing-you/index.html</link>
+            <description><![CDATA[<article><h1>Why complaining is literally killing you.</h1><p>By Steven Parton, From </p></article>]]></description>
+            <link>https://thegrid.ai/do-it/why-complaining-is-literally-killing-you/index.html</link>
             <guid isPermaLink="false">f6f55388-d940-491d-94a9-57fa6311ccbe</guid>
-            <pubDate>Tue, 02 Aug 2016 13:10:13 GMT</pubDate>
+            <pubDate>Tue, 02 Aug 2016 13:11:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
